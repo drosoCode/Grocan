@@ -1,0 +1,8 @@
+version: '3'
+services:
+  grocan:
+    build: .
+    volumes:
+        - /app/docker/data/Grocan/config:/home/grocan/config
+        - /app/docker/data/Grocan/img:/home/grocan/img
+        - /app/docker/data/Grocan/snd:/home/grocan/snd

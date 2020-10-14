@@ -1,0 +1,13 @@
+{
+    "quotes": [
+    ],
+    "saltQuotes": [
+    ],
+    "emotes": [
+    ],
+    "config": {
+        "token": "",
+        "channelID": "",
+        "msg": [20, 40]
+    }
+}
